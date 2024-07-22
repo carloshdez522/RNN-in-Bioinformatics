@@ -17,7 +17,7 @@ The Recurrent Neural Networks (RNN) model with LSTM architecture presented in th
 It is not recommended to run this notebook in an environment with less than 50 GB of RAM due to the high computational requirements of the model and the volume of data processed. An environment with limited resources can result in long run times and possible crashes due to lack of memory.
 
 - **Use of the Trained Model:**
-For those who wish to use the trained model without having to retrain it, they can download the model files and their weights from the Google Colab environment. The notebook includes specific instructions on how to load the previously trained model using the `save_models` and `load_models` functions. This allows predictions to be made without the need for extensive computational resources, taking advantage of the work previously done..
+For those who wish to use the trained model without having to retrain it, they can download the model files and their weights from the Google Colab environment. The notebook includes specific instructions on how to load the previously trained model using the `save_models` and `load_models` functions. This allows predictions to be made without the need for extensive computational resources, taking advantage of the work previously done.
 
 ## Contributions
 Contributions are welcome. If you find any bugs or have suggestions for improvement, please create a pull request or open an issue in the repository.
