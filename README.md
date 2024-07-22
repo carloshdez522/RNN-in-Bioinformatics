@@ -1,5 +1,6 @@
 # RNN in Bioinformatics
 **Author:** Carlos Alfredo Hernández Alvarez, Anabel Abreu Llanes
+
 **ORCID:** [0009-0006-6749-1686](https://orcid.org/0009-0006-6749-1686), [0009-0003-7264-3785](https://orcid.org/0009-0003-7264-3785)
 
 ## Project Description
